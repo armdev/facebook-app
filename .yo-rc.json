@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "facebook",
+    "packageName": "io.project.app",
+    "packageFolder": "io/project/app",
+    "serverPort": 9595,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "MDFjMGFjNWYwNWQ0NDE0MWUzY2I1YzBhMGJkNzIwY2JkZDNmZjBiODJjYmY2ZDllYjAyNjgwYjAxYzI1ZDZhMmVmMmY5NzI1NjU5N2RhZGUxZGM2M2M4OWFkZTllZGNlZjA4NmU2OGUwNmU3NTdiNmQwZTZkNjJiNjRlNDcwMjA=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "armdev",
+  "repository-name": "facebook-app"
+}
